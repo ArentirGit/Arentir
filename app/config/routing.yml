@@ -1,0 +1,3 @@
+arentir_forum:
+    resource: "@ArentirForumBundle/Resources/config/routing.yml"
+    prefix:   /
